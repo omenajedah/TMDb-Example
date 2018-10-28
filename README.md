@@ -1,5 +1,5 @@
 # TMDb-Example
-Saya Firmansyah, Mahasiswa Pradita Kelas Malam
+Saya Firmansyah, Mahasiswa Pradita Kelas Malam<br>
 Aplikasi ini memiliki 2 fragment, yaitu PopularFragment dan NowPlayingFragment.
 
 | Tampilan Fragment Popular | Tampilan Fragment Now Playing |
